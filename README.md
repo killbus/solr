@@ -1,6 +1,6 @@
 # Apache Solr Docker Container Image
 
-[![Build Status](https://travis-ci.org/wodby/solr.svg?branch=master)](https://travis-ci.org/wodby/solr)
+[![Build Status](https://github.com/wodby/solr/workflows/Build%20docker%20image/badge.svg)](https://github.com/wodby/solr/actions)
 [![Docker Pulls](https://img.shields.io/docker/pulls/wodby/solr.svg)](https://hub.docker.com/r/wodby/solr)
 [![Docker Stars](https://img.shields.io/docker/stars/wodby/solr.svg)](https://hub.docker.com/r/wodby/solr)
 [![Docker Layers](https://images.microbadger.com/badges/image/wodby/solr.svg)](https://microbadger.com/images/wodby/solr)
@@ -9,10 +9,10 @@
 
 ❗️For better reliability we release images with stability tags (`wodby/solr:8-X.X.X`) which correspond to [git tags](https://github.com/wodby/solr/releases). We strongly recommend using images only with stability tags. 
 
-* All images based on Alpine Linux
-* Base image: [wodby/base-solr](https://github.com/wodby/base-solr)
-* [Travis CI builds](https://travis-ci.org/wodby/solr) 
-* [Docker Hub](https://hub.docker.com/r/wodby/solr)
+- All images based on Alpine Linux
+- Base image: [wodby/base-solr](https://github.com/wodby/base-solr)
+- [GitHub actions builds](https://github.com/wodby/solr/actions) 
+- [Docker Hub](https://hub.docker.com/r/wodby/solr)
 
 [_(Dockerfile)_]: https://github.com/wodby/solr/tree/master/Dockerfile
 
